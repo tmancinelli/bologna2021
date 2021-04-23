@@ -16,14 +16,22 @@ IIIF International Image Interoperability Framework. In this laboratory IIIF and
 
 ### Exercise:
 
-    1. Navigate to the Bodleian editor: HTTP version at text version at the Bodleian
-    2. Add at least two Canvases to your Manifest. The option to add a Canvas is below the main image preview, to the left.
-    3. Click the "Canvas Metadata" expander in the right-hand column.
-    4. Click "Add an Image". Choose the option to supply the info.json URL and enter the URL for your first image.
-    5. Edit the Canvas Label and provide an appropriate label for your immage
-    6. Repeat these steps to add additional Canvases and images as desired
-    7. Click the "Manifest Metadata" header in the right-hand column. Edit the Label. Supply a label for your manifest.
-    8. Click "Save Manifest" at the top of the right hand column. Click "Donwload Manifest" in the dialog box.
+  1. Navigate to the Bodleian editor: HTTP version at text version at the Bodleian
+  2. Add at least two Canvases to your Manifest. The option to add a Canvas is below the main image preview, to the left.
+  3. Click the "Canvas Metadata" expander in the right-hand column.
+  4. Click "Add an Image". Choose the option to supply the info.json URL and enter the URL for your first image.
+  5. Edit the Canvas Label and provide an appropriate label for your immage
+  6. Repeat these steps to add additional Canvases and images as desired
+  7. Click the "Manifest Metadata" header in the right-hand column. Edit the Label. Supply a label for your manifest.
+  8. Click "Save Manifest" at the top of the right hand column. Click "Donwload Manifest" in the dialog box.
+
+### Simple HTML file
+
+Download - https://github.com/tmancinelli/bologna2021
+ 
+### Open Sea Dragon
+
+Download - https://github.com/tmancinelli/bologna2021
 
 ### Mirador
 
