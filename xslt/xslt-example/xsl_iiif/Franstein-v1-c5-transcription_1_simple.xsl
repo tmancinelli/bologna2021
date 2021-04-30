@@ -19,7 +19,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm">
-                            
+                            <img width="600" src="{//tei:facsimile/tei:graphic/@url}"/>
                         </div>
                         <div class="col-sm">
                             <xsl:apply-templates select="//tei:head"/>
